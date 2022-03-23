@@ -5,7 +5,6 @@ Project developed for the IART course, part of the Integrated Master's in Inform
 ## Details
 - **When:** 3rd year, 2nd Semester 20/21
 - **Topic:** Artificial Inteligence, NLP
-- **Course:** [RCOM - Computer Networks](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459483), @MIEIC.FEUP
 - **Technologies used:** Python, Jupyter Notebooks, Scikit-learn, Pandas, Seaborn, NLTK
 - **In collaboration with:** [@leonormgomes](https://github.com/leonormgomes) and [@flaviacarvalhido](https://github.com/flaviacarvalhido)
 - **Grade:** 18/20
